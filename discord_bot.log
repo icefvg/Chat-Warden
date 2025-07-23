@@ -1,0 +1,476 @@
+2025-07-23 04:41:34,797 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-23 04:41:34,848 - word_filter - INFO - WordFilter initialized with 64 bad words and 64 patterns
+2025-07-23 04:41:34,849 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable is not set!
+2025-07-23 04:45:02,259 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-23 04:45:02,317 - word_filter - INFO - WordFilter initialized with 64 bad words and 64 patterns
+2025-07-23 04:45:02,318 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable is not set!
+2025-07-23 04:52:44,507 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-23 04:52:44,622 - word_filter - INFO - WordFilter initialized with 121 bad words and 119 patterns
+2025-07-23 04:52:44,623 - discord.client - INFO - logging in using static token
+2025-07-23 04:52:45,182 - __main__ - INFO - Bot is starting up...
+2025-07-23 04:52:45,389 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e1828ad13bb25c687b4cc76080e9b0eb).
+2025-07-23 04:52:47,392 - __main__ - INFO - Chat Warden#7530 has connected to Discord!
+2025-07-23 04:52:47,392 - __main__ - INFO - Bot is monitoring 0 guilds
+2025-07-23 04:58:24,604 - __main__ - ERROR - Command error in test_filter: text is a required argument that is missing.
+2025-07-23 04:59:41,476 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 04:59:41,605 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 04:59:42,122 - __main__ - INFO - Created new webhook for channel general
+2025-07-23 04:59:42,213 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 04:59:54,627 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 04:59:54,816 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 04:59:55,071 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 05:02:29,834 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 05:02:29,974 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 05:02:30,392 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 05:02:45,685 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 05:02:45,920 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 05:02:46,224 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 05:03:53,724 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 05:03:53,918 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 05:03:54,323 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 05:04:17,381 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-23 05:04:17,500 - word_filter - INFO - WordFilter initialized with 121 bad words and 119 patterns
+2025-07-23 05:04:17,502 - discord.client - INFO - logging in using static token
+2025-07-23 05:04:17,893 - __main__ - INFO - Bot is starting up...
+2025-07-23 05:04:18,136 - __main__ - INFO - Synced 8 slash commands
+2025-07-23 05:04:18,412 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2e6a6f00fa4b0de506fa26da8d2c9fa6).
+2025-07-23 05:04:20,416 - __main__ - INFO - Chat Warden#7530 has connected to Discord!
+2025-07-23 05:04:20,416 - __main__ - INFO - Bot is monitoring 1 guilds
+2025-07-23 05:04:20,416 - __main__ - INFO - Connected to guild: Warden test (ID: 1397441387909222570)
+2025-07-23 05:10:58,241 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-23 05:10:58,370 - word_filter - INFO - WordFilter initialized with 121 bad words and 119 patterns
+2025-07-23 05:10:58,373 - discord.client - INFO - logging in using static token
+2025-07-23 05:10:58,773 - __main__ - INFO - Bot is starting up...
+2025-07-23 05:10:58,932 - __main__ - INFO - Synced 9 slash commands
+2025-07-23 05:10:59,169 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 56e4aee17fd60c5c0191970c24b1fbe8).
+2025-07-23 05:11:01,172 - __main__ - INFO - Chat Warden#7530 has connected to Discord!
+2025-07-23 05:11:01,173 - __main__ - INFO - Bot is monitoring 1 guilds
+2025-07-23 05:11:01,173 - __main__ - INFO - Connected to guild: Warden test (ID: 1397441387909222570)
+2025-07-23 05:12:02,091 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 05:12:02,244 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 05:12:02,556 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 05:12:12,805 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 05:12:12,922 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 05:12:13,229 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 05:13:30,491 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-23 05:13:31,040 - word_filter - INFO - WordFilter initialized with 512 bad words and 509 patterns
+2025-07-23 05:13:31,042 - discord.client - INFO - logging in using static token
+2025-07-23 05:13:31,474 - __main__ - INFO - Bot is starting up...
+2025-07-23 05:13:33,125 - __main__ - INFO - Synced 9 slash commands
+2025-07-23 05:13:33,398 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 986d8b1f8371620121cfc0c56d4eb6dd).
+2025-07-23 05:13:35,405 - __main__ - INFO - Chat Warden#7530 has connected to Discord!
+2025-07-23 05:13:35,405 - __main__ - INFO - Bot is monitoring 1 guilds
+2025-07-23 05:13:35,405 - __main__ - INFO - Connected to guild: Warden test (ID: 1397441387909222570)
+2025-07-23 05:15:44,785 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 05:15:44,969 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 05:15:45,792 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 05:16:38,559 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 05:16:38,750 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 05:16:39,044 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 05:16:57,484 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 05:16:57,666 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 05:16:57,977 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 05:17:28,793 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 05:17:28,927 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 05:17:29,194 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 05:17:33,777 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 05:17:33,900 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 05:17:34,203 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 06:02:45,585 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-23 06:02:53,602 - word_filter - INFO - WordFilter initialized with 512 bad words and 509 patterns
+2025-07-23 06:03:01,801 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable is not set!
+2025-07-23 06:03:30,004 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-23 06:03:38,107 - word_filter - INFO - WordFilter initialized with 512 bad words and 509 patterns
+2025-07-23 06:03:46,396 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable is not set!
+2025-07-23 06:09:51,400 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-23 06:09:58,396 - word_filter - INFO - WordFilter initialized with 512 bad words and 509 patterns
+2025-07-23 06:10:05,405 - discord.client - INFO - logging in using static token
+2025-07-23 06:10:06,189 - __main__ - INFO - Bot is starting up...
+2025-07-23 06:10:06,494 - __main__ - INFO - Synced 9 slash commands
+2025-07-23 06:10:06,848 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8f8489a5889b121c534ca6400696e0dc).
+2025-07-23 06:10:08,852 - __main__ - INFO - Chat Warden#7530 has connected to Discord!
+2025-07-23 06:10:08,853 - __main__ - INFO - Bot is monitoring 1 guilds
+2025-07-23 06:10:08,853 - __main__ - INFO - Connected to guild: Warden test (ID: 1397441387909222570)
+2025-07-23 06:10:28,689 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 06:10:28,881 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 06:10:29,452 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 06:11:06,638 - __main__ - INFO - Bad word detected in message from aaashish._. in ◆〢chat・zone
+2025-07-23 06:11:06,934 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 06:11:07,641 - __main__ - INFO - Created new webhook for channel ◆〢chat・zone
+2025-07-23 06:11:07,830 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 06:23:02,001 - __main__ - INFO - Bad word detected in message from aaashish._. in ◆〢chat・zone
+2025-07-23 06:23:02,224 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 06:23:02,672 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 06:23:05,723 - __main__ - INFO - Bad word detected in message from aaashish._. in ◆〢chat・zone
+2025-07-23 06:23:05,989 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 06:23:06,460 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 06:23:27,477 - __main__ - INFO - Bad word detected in message from aaashish._. in ◆〢chat・zone
+2025-07-23 06:23:27,673 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 06:23:28,100 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 06:23:39,426 - __main__ - INFO - Bad word detected in message from aaashish._. in ◆〢chat・zone
+2025-07-23 06:23:39,621 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 06:23:40,201 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 06:23:45,292 - __main__ - INFO - Bad word detected in message from aaashish._. in ◆〢chat・zone
+2025-07-23 06:23:45,487 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 06:23:46,278 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 06:24:15,535 - __main__ - INFO - Bad word detected in message from crazy.jellybean in ◆〢chat・zone
+2025-07-23 06:24:15,806 - __main__ - INFO - Deleted message from crazy.jellybean
+2025-07-23 06:24:16,254 - __main__ - INFO - Sent filtered message via webhook for crazy.jellybean
+2025-07-23 06:24:46,079 - __main__ - INFO - Bad word detected in message from crazy.jellybean in ◆〢chat・zone
+2025-07-23 06:24:46,288 - __main__ - INFO - Deleted message from crazy.jellybean
+2025-07-23 06:24:46,896 - __main__ - INFO - Sent filtered message via webhook for crazy.jellybean
+2025-07-23 06:26:57,940 - discord.app_commands.tree - ERROR - Ignoring exception in command 'add_bad_word'
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 828, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/main.py", line 440, in slash_add_bad_word
+    await interaction.response.send_message(embed=embed)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/interactions.py", line 801, in send_message
+    await adapter.create_interaction_response(
+  File "/home/container/.local/lib/python3.12/site-packages/discord/webhook/async_.py", line 219, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/tree.py", line 1248, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 853, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 846, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'add_bad_word' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-07-23 06:27:21,440 - __main__ - INFO - Bad word detected in message from crazy.jellybean in ◆〢chat・zone
+2025-07-23 06:27:21,627 - __main__ - INFO - Deleted message from crazy.jellybean
+2025-07-23 06:27:22,110 - __main__ - INFO - Sent filtered message via webhook for crazy.jellybean
+2025-07-23 06:28:08,631 - __main__ - INFO - Bad word detected in message from crazy.jellybean in ◆〢chat・zone
+2025-07-23 06:28:08,867 - __main__ - INFO - Deleted message from crazy.jellybean
+2025-07-23 06:28:09,256 - __main__ - INFO - Sent filtered message via webhook for crazy.jellybean
+2025-07-23 06:28:58,686 - __main__ - INFO - Bad word detected in message from crazy.jellybean in ◆〢chat・zone
+2025-07-23 06:28:58,833 - discord.app_commands.tree - ERROR - Ignoring exception in command 'add_bad_word'
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 828, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/main.py", line 440, in slash_add_bad_word
+    await interaction.response.send_message(embed=embed)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/interactions.py", line 801, in send_message
+    await adapter.create_interaction_response(
+  File "/home/container/.local/lib/python3.12/site-packages/discord/webhook/async_.py", line 219, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/tree.py", line 1248, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 853, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 846, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'add_bad_word' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-07-23 06:28:58,936 - __main__ - INFO - Deleted message from crazy.jellybean
+2025-07-23 06:28:59,661 - __main__ - INFO - Sent filtered message via webhook for crazy.jellybean
+2025-07-23 06:36:01,118 - __main__ - INFO - Bad word detected in message from aaashish._. in ◆〢chat・zone
+2025-07-23 06:36:01,360 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 06:36:01,798 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 06:36:48,179 - __main__ - INFO - Bad word detected in message from crazy.jellybean in ◆〢chat・zone
+2025-07-23 06:36:48,394 - __main__ - INFO - Deleted message from crazy.jellybean
+2025-07-23 06:36:48,903 - __main__ - INFO - Sent filtered message via webhook for crazy.jellybean
+2025-07-23 06:58:47,530 - discord.app_commands.tree - ERROR - Ignoring exception in command 'add_bad_word'
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 828, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/main.py", line 440, in slash_add_bad_word
+    await interaction.response.send_message(embed=embed)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/interactions.py", line 801, in send_message
+    await adapter.create_interaction_response(
+  File "/home/container/.local/lib/python3.12/site-packages/discord/webhook/async_.py", line 219, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/tree.py", line 1248, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 853, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 846, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'add_bad_word' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-07-23 06:59:32,855 - discord.app_commands.tree - ERROR - Ignoring exception in command 'add_bad_word'
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 828, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/main.py", line 440, in slash_add_bad_word
+    await interaction.response.send_message(embed=embed)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/interactions.py", line 801, in send_message
+    await adapter.create_interaction_response(
+  File "/home/container/.local/lib/python3.12/site-packages/discord/webhook/async_.py", line 219, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/tree.py", line 1248, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 853, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 846, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'add_bad_word' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-07-23 06:59:46,465 - __main__ - INFO - Bad word detected in message from crazy.jellybean in ◆〢chat・zone
+2025-07-23 06:59:46,638 - __main__ - INFO - Deleted message from crazy.jellybean
+2025-07-23 06:59:47,279 - __main__ - INFO - Sent filtered message via webhook for crazy.jellybean
+2025-07-23 06:59:51,842 - __main__ - INFO - Bad word detected in message from crazy.jellybean in ◆〢chat・zone
+2025-07-23 06:59:52,080 - __main__ - INFO - Deleted message from crazy.jellybean
+2025-07-23 06:59:52,511 - __main__ - INFO - Sent filtered message via webhook for crazy.jellybean
+2025-07-23 07:01:40,572 - discord.app_commands.tree - ERROR - Ignoring exception in command 'add_bad_word'
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 828, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/main.py", line 440, in slash_add_bad_word
+    await interaction.response.send_message(embed=embed)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/interactions.py", line 801, in send_message
+    await adapter.create_interaction_response(
+  File "/home/container/.local/lib/python3.12/site-packages/discord/webhook/async_.py", line 219, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/tree.py", line 1248, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 853, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 846, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'add_bad_word' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-07-23 07:06:23,330 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 07:06:23,568 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 07:06:24,010 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 07:07:05,853 - discord.app_commands.tree - ERROR - Ignoring exception in command 'add_bad_word'
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 828, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/main.py", line 440, in slash_add_bad_word
+    await interaction.response.send_message(embed=embed)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/interactions.py", line 801, in send_message
+    await adapter.create_interaction_response(
+  File "/home/container/.local/lib/python3.12/site-packages/discord/webhook/async_.py", line 219, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/tree.py", line 1248, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 853, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 846, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'add_bad_word' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-07-23 07:11:01,353 - discord.app_commands.tree - ERROR - Ignoring exception in command 'add_bad_word'
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 828, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/main.py", line 440, in slash_add_bad_word
+    await interaction.response.send_message(embed=embed)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/interactions.py", line 801, in send_message
+    await adapter.create_interaction_response(
+  File "/home/container/.local/lib/python3.12/site-packages/discord/webhook/async_.py", line 219, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/tree.py", line 1248, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 853, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 846, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'add_bad_word' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-07-23 07:11:01,542 - __main__ - INFO - Bad word detected in message from crazy.jellybean in ◆〢chat・zone
+2025-07-23 07:11:01,543 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 8f8489a5889b121c534ca6400696e0dc.
+2025-07-23 07:11:01,845 - __main__ - INFO - Deleted message from crazy.jellybean
+2025-07-23 07:11:02,383 - __main__ - INFO - Sent filtered message via webhook for crazy.jellybean
+2025-07-23 07:23:47,101 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-23 07:23:55,424 - word_filter - INFO - WordFilter initialized with 512 bad words and 509 patterns
+2025-07-23 07:24:03,802 - discord.client - INFO - logging in using static token
+2025-07-23 07:24:04,381 - __main__ - INFO - Bot is starting up...
+2025-07-23 07:24:04,638 - __main__ - INFO - Synced 9 slash commands
+2025-07-23 07:24:05,035 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 106ae4672ee854d8c2f29353dfa3ea17).
+2025-07-23 07:24:07,051 - __main__ - INFO - Chat Warden#7530 has connected to Discord!
+2025-07-23 07:24:07,051 - __main__ - INFO - Bot is monitoring 2 guilds
+2025-07-23 07:24:07,052 - __main__ - INFO - Connected to guild: The Buddies! (ID: 794801054268915712)
+2025-07-23 07:24:07,052 - __main__ - INFO - Connected to guild: Warden test (ID: 1397441387909222570)
+2025-07-23 07:24:46,723 - __main__ - INFO - Bad word detected in message from aaashish._. in ◆〢chat・zone
+2025-07-23 07:24:47,098 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 07:24:47,642 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 07:25:53,656 - discord.app_commands.tree - ERROR - Ignoring exception in command 'remove_bad_word'
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 828, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/main.py", line 483, in slash_remove_bad_word
+    await interaction.response.send_message(embed=embed)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/interactions.py", line 801, in send_message
+    await adapter.create_interaction_response(
+  File "/home/container/.local/lib/python3.12/site-packages/discord/webhook/async_.py", line 219, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/tree.py", line 1248, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 853, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 846, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'remove_bad_word' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-07-23 07:26:12,997 - discord.app_commands.tree - ERROR - Ignoring exception in command 'add_bad_word'
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 828, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/main.py", line 443, in slash_add_bad_word
+    await interaction.response.send_message(embed=embed)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/interactions.py", line 774, in send_message
+    raise InteractionResponded(self._parent)
+discord.errors.InteractionResponded: This interaction has already been responded to before
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/tree.py", line 1248, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 853, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 846, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'add_bad_word' raised an exception: InteractionResponded: This interaction has already been responded to before
+2025-07-23 07:27:01,428 - __main__ - INFO - Bad word detected in message from aaashish._. in ◆〢chat・zone
+2025-07-23 07:27:01,677 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 07:27:02,142 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 07:27:06,551 - __main__ - INFO - Bad word detected in message from aaashish._. in ◆〢chat・zone
+2025-07-23 07:27:06,787 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 07:27:07,370 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 07:27:10,896 - __main__ - INFO - Bad word detected in message from aaashish._. in ◆〢chat・zone
+2025-07-23 07:27:11,142 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 07:27:11,650 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 07:27:44,892 - __main__ - INFO - Bad word detected in message from aaashish._. in ◆〢chat・zone
+2025-07-23 07:27:45,077 - discord.app_commands.tree - ERROR - Ignoring exception in command 'remove_bad_word'
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 828, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/main.py", line 483, in slash_remove_bad_word
+    await interaction.response.send_message(embed=embed)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/interactions.py", line 801, in send_message
+    await adapter.create_interaction_response(
+  File "/home/container/.local/lib/python3.12/site-packages/discord/webhook/async_.py", line 219, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/tree.py", line 1248, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 853, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 846, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'remove_bad_word' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-07-23 07:27:45,152 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 07:27:45,772 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 07:28:08,803 - discord.app_commands.tree - ERROR - Ignoring exception in command 'add_bad_word'
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 828, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/main.py", line 443, in slash_add_bad_word
+    await interaction.response.send_message(embed=embed)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/interactions.py", line 774, in send_message
+    raise InteractionResponded(self._parent)
+discord.errors.InteractionResponded: This interaction has already been responded to before
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/tree.py", line 1248, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 853, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 846, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'add_bad_word' raised an exception: InteractionResponded: This interaction has already been responded to before
+2025-07-23 07:28:08,809 - __main__ - INFO - Bad word detected in message from aaashish._. in ◆〢chat・zone
+2025-07-23 07:28:09,013 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 07:28:09,760 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 07:28:49,974 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 07:28:50,169 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 07:28:50,605 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 07:29:10,561 - discord.app_commands.tree - ERROR - Ignoring exception in command 'remove_bad_word'
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 828, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/main.py", line 483, in slash_remove_bad_word
+    await interaction.response.send_message(embed=embed)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/interactions.py", line 801, in send_message
+    await adapter.create_interaction_response(
+  File "/home/container/.local/lib/python3.12/site-packages/discord/webhook/async_.py", line 219, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/tree.py", line 1248, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 853, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/.local/lib/python3.12/site-packages/discord/app_commands/commands.py", line 846, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'remove_bad_word' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-07-23 07:29:18,292 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 07:29:18,508 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 07:29:19,083 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 07:31:39,745 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 07:31:39,957 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 07:31:40,402 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 07:35:13,110 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 07:35:13,474 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 07:35:14,064 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
+2025-07-23 07:35:18,275 - __main__ - INFO - Bad word detected in message from aaashish._. in general
+2025-07-23 07:35:18,549 - __main__ - INFO - Deleted message from aaashish._.
+2025-07-23 07:35:18,949 - __main__ - INFO - Sent filtered message via webhook for aaashish._.
